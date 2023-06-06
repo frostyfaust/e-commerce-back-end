@@ -38,6 +38,7 @@ This project aims to build a mock back end of an e-commmerce webpage, utilizing 
 
 other required installation:
 - MySQL
+- Insomnia
 
     
 ## Usage
